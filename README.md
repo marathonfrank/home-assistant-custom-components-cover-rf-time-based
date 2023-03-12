@@ -1,9 +1,7 @@
 **NOTE**
+This is an unmodified fork of https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based  as nagyrobi has decided to archive the repository. 
 
-Since I moved the time-based functionality to an [ESPHome](https://esphome.io/components/cover/time_based.html) node, which works much better as it's being done in hardware, I'm archiving this repository and stop maintaining it. 
 
-
-Anyone feel free to fork it and continue development as needed.
 
 
 # Cover Time Based script/entity
