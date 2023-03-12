@@ -1,4 +1,5 @@
 **NOTE**
+
 This is an unmodified fork of https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based  as nagyrobi has decided to archive the repository. 
 
 
